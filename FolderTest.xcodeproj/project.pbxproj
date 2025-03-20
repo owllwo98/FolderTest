@@ -56,7 +56,11 @@
 		5E9FB2452D8BDC2400E9541F /* FolderTest */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				5E9FB25B2D8BE4F300E9541F /* lwo */,
+=======
+				5E9FB25A2D8BE36400E9541F /* owl */,
+>>>>>>> fd117418202286c86e2c9a551cdcf53581683681
 				5E9FB2462D8BDC2400E9541F /* AppDelegate.swift */,
 				5E9FB2482D8BDC2400E9541F /* SceneDelegate.swift */,
 				5E9FB24C2D8BDC2400E9541F /* Main.storyboard */,
@@ -67,12 +71,20 @@
 			path = FolderTest;
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
 		5E9FB25B2D8BE4F300E9541F /* lwo */ = {
+=======
+		5E9FB25A2D8BE36400E9541F /* owl */ = {
+>>>>>>> fd117418202286c86e2c9a551cdcf53581683681
 			isa = PBXGroup;
 			children = (
 				5E9FB24A2D8BDC2400E9541F /* ViewController.swift */,
 			);
+<<<<<<< HEAD
 			path = lwo;
+=======
+			name = owl;
+>>>>>>> fd117418202286c86e2c9a551cdcf53581683681
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
